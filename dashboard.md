@@ -41,5 +41,3 @@
 <br>
 <a href="tech_database.html">Using the Technology Database - still in progress</a>
 
-
-

@@ -7,7 +7,7 @@
 </p>
 
 <p>
-    The goal of this model is to encourage farms to build technologies and use those technologies to recover energy from waste. Doing this is much more sustainable than simply purchasing electricity from another source. Unlike the Waste to Energy case study, which already had existing technology sites, the Energy Incentive case study does not have any technology sites built; it must determine whether it is worth it to build technologies. This gives the Energy Incentive case study an additional cost barrier to worry about: the investment cost of the technology. 
+    The goal of this model is to encourage farms to build technologies and use those technologies to recover energy from waste. Doing this is much more sustainable than simply purchasing electricity from another source. Unlike the Waste to Energy case study, which already had existing technology sites, the Energy Incentive case study does not have any technology sites built; it must determine whether it is worth it to build technologies. This gives the Energy Incentive case study an additional cost barrier to worry about.
  </p>
 
  <p>
@@ -65,10 +65,6 @@ For case 3, the energy incentive is raised to $0.10 per kWh, resulting in a few 
 </p>
 
 <p>
-    At market price ($0 incentives), no technologies were installed and all waste was applied to croplands. At a $0.04 incentive, at least two farms installed technologies and the surrounding farms were able to send their waste to the technology sites for processing. At $0.10 energy incentives, several more CAFOs installed technologies, and as a result, much more manure was able to be processed. 
-</p>
-
-<p>
-    As the price of electricity increases, CAFOs become more willing to install technologies to process their waste into bioelectricity. 
+    At market price ($0 incentives), no technologies were installed and all waste was applied to croplands. At a $0.04 incentive, at least two farms installed technologies and the surrounding farms were able to send their waste to the technology sites for processing. At $0.10 energy incentives, several more CAFOs installed technologies, and as a result, more manure was able to be processed. Even at the highest price energy incentive, there is still much less manure being processed than is being produced. This suggests that an energy incentive of $0.10 per kWh may not be enough to make a significant difference. 
 </p>
 

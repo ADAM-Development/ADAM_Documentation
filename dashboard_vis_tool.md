@@ -15,7 +15,11 @@
 <img src="Pictures\Dashboard_tutorials\visualization_tool\vis_model.png">
 
 <p>
-    For more information about using the visualization tool to view model results, see the 
+    After selecting <b>Go</b>, you will then be able to view the model data and the results. You can view the transportation pathways to see the transportation cost and how much product is being transported, and you can view the price gradient resutls. 
+</p>
+
+<p>
+    For more detailed information about using the visualization tool to view model results, see the 
 <a href="/ADAM_Documentation/dashboard_results.html#vis_model_results">Interpreting the Results Tutorial</a>
 </p>
 
@@ -70,4 +74,3 @@
 <br>
 
 <a href="/ADAM_Documentation/dashboard.html">Return to Dashboard Tutorials</a>
-

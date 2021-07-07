@@ -183,7 +183,5 @@ Your browser does not support the video.
 <img src="Pictures\custom_model\results.png">
 
 <p>
-  Please try going through the custom model tutorial on your own to get familiar with ADAM! 
+  Try going through the custom model tutorial on your own to get familiar with ADAM! 
 </p>
-
-

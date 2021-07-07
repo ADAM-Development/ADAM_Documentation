@@ -183,13 +183,16 @@
 <img src="Pictures\Dashboard_tutorials\results\vis_results.png">
 
 <p>
-    You can also view the price gradients for each product. Red areas indicate high prices and blue areas indicate low prices. 
+    The visualization tool also allows you to view the clearing price map for each product. In the clearing prices result file, we only have the product prices at each node. The visualization tool allows you to view the product prices for non-node locations. 
 </p>
-
+ 
 <img src="Pictures\Dashboard_tutorials\results\vis_price.png">
+
+<p>
+    Red areas indicate high prices and blue areas indicate low prices. Since the supplier wants to profit off of their goods, they will try to sell their products at high price locations; as a result, products tend to flow from areas of low price to areas of high price. You can click on the individual squares to view the price at that point. 
+</p>
 
 <br>
 <br>
 
 <a href="/ADAM_Documentation/dashboard.html">Return to Dashboard Tutorials</a>
-

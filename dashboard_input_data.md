@@ -82,7 +82,6 @@
 
 <img src="Pictures\Dashboard_tutorials\input_data\load_model_data.png">
 
-
 <br>
 <br>
 
