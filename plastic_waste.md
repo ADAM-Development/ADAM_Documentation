@@ -10,7 +10,7 @@
     In this case study, we will go over an example plastic waste supply chain for polyethylene terephthalate (PET), a material used in plastic bottles. A p-graph of the supply chain is shown in the image below. First, the PET pellet suppliers send PET pellets to a bottle production technology, which produces empty plastic bottles. The empty bottles are then filled with a beverage at a bottle filling technology. Next, the bottled beverage is purchased and consumed by a customer; the empty bottles are discarded. The discarded bottles go through a Materials Recovery Facility (MRF), which sorts the plastics. Afterwards, the plastics are sent to one of three plastic processing technologies: landfills, WTE, and reclaimer technologies. Landfills are where the plastics are discarded and turned into garbage, Waste to Energy (WTE) technologies convert the plastic into electricity by using heat, and reclaimer technologies recycle the plastic and recover the rPET (recycled PET) pellets. When PET pellets get recycled, the quality of the pellets degrade, and it cannot be used again for plastic bottle production. Instead, rPET pellets are used in clothing application. 
 </p>
 
-<img src="Pictures\plastic_waste\p_graph.png" width="2700" height="675">
+<img src="Pictures\plastic_waste\p_graph.png">
 
 <p>
     We would like to encourage the system to process waste into electricity or to recycle it into PET pellets rather than dumping it into a landfill. In order to do this, we must apply incentives. In this case study, we will try to encourage the recycling of plastic waste by applying rPET incentives at low, market, and high price points. If we increase the price of rPET, we will expect more plastic to be processed into rPET. 
