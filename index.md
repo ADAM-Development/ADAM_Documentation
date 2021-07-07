@@ -31,6 +31,8 @@
 <a href="/ADAM_Documentation/nutrient_pol.html">Nutrient Pollution Control</a>
 <br>
 <a href="/ADAM_Documentation/energy_incent.html">Energy Incentives</a>
+<br>
+<a href="plastic_waste.html">Plastic Waste</a>
 
 <h3>Other</h3>
 <a href="/ADAM_Documentation/glossary.html">Glossary</a>
