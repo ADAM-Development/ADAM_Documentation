@@ -1,4 +1,4 @@
-<h1>FERC Order NO. 2222</h1>
+<h1>FERC Order No. 2222</h1>
 
 <h2>Background</h2>
 
@@ -11,7 +11,7 @@
 </p>
 
 <p>
-    This case study demonstrates the impacts of FERC Order No. 2222 through two scenarios, one representing the system before Order No. 2222 was issued and the other representing the system after. In order to simplify the system, we assumed that the entire electricity demand for the state of Wisconsin was located at a centralized point: Milwaukee, WI. 
+    This case study demonstrates the impacts of FERC Order No. 2222 through two scenarios, one representing the system before Order No. 2222 was issued and the other representing the system after. In order to simplify the system, we only used data from a small subarea of Wisconsin. We also assumed that the electricity demand for the entire state of Wisconsin was located at a centralized point: Milwaukee, WI. 
 </p>
 
 <p>
@@ -23,14 +23,22 @@
 <h2>Old Policy</h2>
 
 <p>
-
+    Before FERC Order No. 2222 was issued, DERs faced an extra cost barrier compared to traditional energy resources. This cost barrier is represented in the model as a pseudo technology which increased the operating cost of the system by $0.10/KWh of Electricity. 
 </p>
+
+<p>
+    As shown in the figure below, 
+</p>
+
+<img src="Pictures\biogas_case_study\results_and_key.png">
 
 <h2>New Policy</h2>
 
 <p>
 
 </p>
+
+<img src="Pictures\biogas_case_study\chart.png">
 
 <h2>Conclusion</h2>
 
