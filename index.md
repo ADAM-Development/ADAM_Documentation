@@ -33,6 +33,8 @@
 <a href="/ADAM_Documentation/energy_incent.html">Energy Incentives</a>
 <br>
 <a href="plastic_waste.html">Plastic Waste</a>
+<br>
+<a href="biogas.html">Biogas Supply Chain Under FERC Order No. 2222</a>
 
 <h3>Other</h3>
 <a href="/ADAM_Documentation/glossary.html">Glossary</a>

@@ -15,7 +15,7 @@
 </p>
 
 <p>
-    The first scenario we explore is the system under the old policy (i.e. before Order No. 2222 was issued). In this scenario, we add a pseudo technology, labeled "Electricity Cost Increase", to the end of the biogas supply chain (shown below) in order to represent the additional cost barrier for DERs. The new policy (i.e. after Order No. 2222 was issued) removes the Electricity Cost Increase technology, resulting in lower operating costs for producing electricity. 
+    The first scenario we explore is the system under the old policy (i.e. before Order No. 2222 was issued). In this scenario, we add a pseudo technology, labeled "Electricity Cost Increase", to the end of the biogas supply chain (shown below) in order to represent the additional cost barrier for DERs. The new policy (i.e. Order No. 2222) removes the Electricity Cost Increase technology, resulting in lower operating costs for producing electricity. 
 </p>
 
 <img src="Pictures\biogas_case_study\biogas_p_graph.png">
@@ -23,15 +23,17 @@
 <h2>Old Policy</h2>
 
 <p>
+
 </p>
 
 <h2>New Policy</h2>
 
 <p>
-</p>
 
+</p>
 
 <h2>Conclusion</h2>
 
 <p>
+
 </p>
