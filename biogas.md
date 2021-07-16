@@ -3,7 +3,7 @@
 <h2>Background</h2>
 
 <p>
-    On September 17, 2020, the Federal Energy Regulatory Commision (FERC) issued order No. 2222. This policy removed the cost barriers that were limiting distributed energy resources (DERs), allowing them to compete alongside traditional electricity resources. 
+    On September 17, 2020, the <b>Federal Energy Regulatory Commision (FERC)</b> issued <b>Order No. 2222</b>. This policy removed the cost barriers that were limiting <b>distributed energy resources (DERs)</b>, allowing them to compete alongside traditional electricity resources. 
 </p>
 
 <p>
@@ -11,7 +11,7 @@
 </p>
 
 <p>
-    This case study demonstrates the impacts of FERC Order No. 2222 through two scenarios, one representing the system before Order No. 2222 was issued and the other representing the system after. For both cases, we used a biogas supply chain (shown below) that uses raw cattle manure to generate electricity. The power generation technology represents the DERs, and the Electricity Cost Increase technology is a pseudo technology that simulates the presence of the DER cost barrier by increasing operating costs. 
+    This case study demonstrates the impacts of FERC Order No. 2222 through two scenarios, one representing the system before Order No. 2222 was issued and the other representing the system after. For both cases, we used a biogas supply chain (shown below) that uses raw cattle manure to generate electricity. The power generation technology represents the DERs, and the Electricity Cost Increase is a pseudo technology that simulates the cost barrier for DERs. 
 </p>
 
 <img src="Pictures\biogas_case_study\biogas_p_graph.png">
