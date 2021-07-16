@@ -1,4 +1,4 @@
-<h1>FERC Order No. 2222</h1>
+<h1>Biogas Supply Chain Under Order No. 2222</h1>
 
 <h2>Background</h2>
 
@@ -17,7 +17,7 @@
 <img src="Pictures\biogas_case_study\biogas_p_graph.png">
 
 <p>
-    In our system, the supply nodes are CAFOs which supply manure to the technology sites. The technology sites then process the manure into digestate and electricity. In order to simplify the system, we only used data from a small subarea of Wisconsin, and we consolidated the electricity demand into a single point located at Milwaukee, WI; this allows us to greatly reduce the number of nodes, and the solver will then be able to find a solution quickly. 
+    In our system, the supply nodes are CAFOs which supply manure to the technology sites. The technology sites then process the manure into digestate and electricity. In order to simplify the system, we only used data from a small subarea of Wisconsin, consolidated the electricity demand into a single point located at Milwaukee, WI; this allows us to greatly reduce the number of nodes, and the solver will then be able to find a solution quickly. Additionally, we assumed that all of the technology sites are already built. This removes the investment cost barrier and allows us to see only the effect of the policy. 
 </p>
 
 <h2>Old Policy</h2>
@@ -35,17 +35,13 @@
 <h2>New Policy</h2>
 
 <p>
-    For the new policy case, the pseudo technology was removed in order to simulate the cost barrier reduction. On the surface, the product flow results of the new policy appears to be the same as the old policy. However, the quantitative results show that the new policy has lower costs than the old policy.
+    For the new policy case, the pseudo technology was removed in order to simulate the cost barrier reduction. On the surface, the product flow results of the new policy appears to be the same as the old policy. However, the quantitative results (right) show that the new policy has much lower costs than the old policy. 
 </p> 
 
 <img src="Pictures\biogas_case_study\graph_and_chart.png">
 
-<!--
-<img src="Pictures\biogas_case_study\chart.png">
--->
-
 <p>
-    Both policy scenarios have the same revenue and transportation costs since the Milwaukee demand node remained constant in both systems. However, the Old Policy (blue) has a negative social welfare which can be attributed to the high operating costs of the system. The operating cost alone for the old policy was able to surpass the revenue generated from selling the electricity. This indicates that the cost barriers for installing DERs are too high to be profitable. As a result, many customers are barred from entering the market. On the other hand, the new policy has much lower operating costs, and as a result, generating electricity is profitable (social welfare is positive). Under the new policy, more customers will be willing to install DERs in their homes. 
+    Both scenarios have the same revenue and transportation costs since the electricity demand node is the same in both systems. However, the old policy has a negative social welfare which can be attributed to the high operating costs of the system; the operating cost alone was able to surpass the revenue generated from selling the electricity. This indicates that the cost barriers for operating DERs are too high to be profitable. As a result, many customers are barred from entering the market. On the other hand, the new policy has much lower operating costs, so generating electricity is profitable (social welfare is positive). Under the new policy, more customers will be willing to install DERs.
 </p>
 
 <h2>Conclusion</h2>
