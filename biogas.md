@@ -38,7 +38,11 @@
     For the new policy case, the pseudo technology was removed in order to simulate the cost barrier reduction. On the surface, the product flow results of the new policy appears to be the same as the old policy. However, the quantitative results show that the new policy has lower costs than the old policy.
 </p> 
 
+<img src="Pictures\biogas_case_study\graph_and_chart.png">
+
+<!--
 <img src="Pictures\biogas_case_study\chart.png">
+-->
 
 <p>
     Both policy scenarios have the same revenue and transportation costs since the Milwaukee demand node remained constant in both systems. However, the Old Policy (blue) has a negative social welfare which can be attributed to the high operating costs of the system. The operating cost alone for the old policy was able to surpass the revenue generated from selling the electricity. This indicates that the cost barriers for installing DERs are too high to be profitable. As a result, many customers are barred from entering the market. On the other hand, the new policy has much lower operating costs, and as a result, generating electricity is profitable (social welfare is positive). Under the new policy, more customers will be willing to install DERs in their homes. 
