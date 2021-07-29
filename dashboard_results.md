@@ -1,14 +1,10 @@
 <h1>Interpreting the Results</h1>
 
-<p>
-    After the model has finished running, you can view the results. The results window consists of three sections: <b>Results Summary</b>, <b>Download Resutls</b>, and <b>Visualization</b>. In this tutorial, we will go over those three sections of the results and how to interpret them. 
-</p>
+After the model has finished running, you can view the results. The results window consists of three sections: **Results Summary**, **Download Resutls**, and **Visualization**. In this tutorial, we will go over those three sections of the results and how to interpret them.
 
 <h2>Results Summary</h2>
 
-<p>
-    The <b>results summary</b> section gives a brief overview of the economic performance of the system; it consists of several categories: <b>total social welfare, total revenue, total supply cost, total transportation cost, total technology operational cost, total annualized investment cost</b>. The table below gives a brief description of each category and its meanings. 
-</p>
+The **results summary** section gives a brief overview of the economic performance of the system; it consists of several categories: **total social welfare, total revenue, total supply cost, total transportation cost, total technology operational cost, total annualized investment cost**. The table below gives a brief description of each category and its meanings. 
 
 | Result Category | Description |
 | ------------- | ------------- | 
@@ -27,9 +23,7 @@
 
 <img src="Pictures\Dashboard_tutorials\run_model\results.png">
 
-<p>
-    The system has <b>social welfare of 505,756 million USD/year </b>which indicates that it is profiting in this scenario. The <b>revenue is zero</b> because the disposal node is not paying any money to obtain the waste product. The <b>supply cost is -975,000 million USD/year</b>. This means that the system is gaining 975,000 million USD/year from the suppliers. The <b>transportation costs are 405,201.90 million USD/year</b>. The <b>operating cost is $64,042 million/year</b>. The <b>investment cost is zero</b> because the technologies were already built. 
-</p>
+The system has <b>social welfare of 505,756 million USD/year </b>which indicates that it is profiting in this scenario. The <b>revenue is zero</b> because the disposal node is not paying any money to obtain the waste product. The <b>supply cost is -975,000 million USD/year</b>. This means that the system is gaining 975,000 million USD/year from the suppliers. The <b>transportation costs are 405,201.90 million USD/year</b>. The <b>operating cost is $64,042 million/year</b>. The <b>investment cost is zero</b> because the technologies were already built. 
 
 <p>
     The reason why ADAM categorizes the money from suppliers as a <b>negative cost</b> is due to traditional notation. In a traditional market, suppliers have to receive money before they supply a product (e.g. a dairy farmer needs to get paid in order to offer their milk to the market), but that is not true in a waste management system. Waste is an undesirable product so <b>suppliers will pay money to get rid of their waste</b>. This results in a negative supply cost since the <b>flow of money is reversed</b>. 
