@@ -40,7 +40,7 @@
     After selecting <b>Upload Data File</b>, you can now upload the data files to the visualization tool and select the desired mapping style. 
 </p>
 
-<img src="Pictures\Dashboard_tutorials\visualization_tool\upload_data_files.png">
+<img src="Pictures\Dashboard_tutorials\visualization_tool\upload_data_files.png" style="width:426px;height:511px;">
 
 <h3>Straight Line Mapping Style</h3>
 
