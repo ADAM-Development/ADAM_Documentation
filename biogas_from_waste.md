@@ -74,7 +74,7 @@
     By <b>double-clicking</b> on any of the markers, you can get <b>more detailed information about each node</b>. An example of the detailed information is shown below. 
 </p>
 
-<img src="Pictures\biogas_from_waste_ex\sup_info_v2.png">
+<img src="Pictures\biogas_from_waste_ex\sup_info_v2.png" style="width:426px;height:390px;">
 
 <p>
     Here we see that this supply node is located at a longitude and latitude of <b>43.1263, -89.5514</b>. It produces waste at a capacity of <b>65,000 tonnes</b> per year (the "per year" was defined in step 1) at a cost of <b>$5 per tonne</b> of waste produced. 
