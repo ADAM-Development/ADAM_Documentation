@@ -9,7 +9,7 @@
 </p>
 
 
-<h2>1) Navigate to the Desired Case Study</h2>
+<h2>Step 1: Navigate to the Desired Case Study</h2>
 
 <p>
     Click on the case studies icon to navigate into the published case studies.
@@ -26,7 +26,7 @@
 <img src="Pictures\Dashboard_tutorials\copy_model\nav_to_case_studies_2.png">
 
 
-<h2>2) Make a copy</h2>
+<h2>Step 2: Make a copy</h2>
 
 <p>
     Once you have navigated to the case study, and click <b>Make a Copy</b>. Note that the copy will only contain one scenario so be sure to adjust to the desired scenario before you click <b>Make a Copy</b>.

@@ -16,7 +16,7 @@
 
 <br> 
 
-<h3>Preliminary - Input Data</h3> 
+<h3>Input Data</h3> 
 
 <img src="Pictures\custom_model\input_dat.png">
 
@@ -34,7 +34,7 @@
 
 <br>
 
-<h3>Preliminary - Output Data</h3> 
+<h3>Output Data</h3> 
 
 <img src="Pictures\custom_model\output_dat.png">
 
@@ -89,7 +89,31 @@ Your browser does not support the video.
 
 <br>
 
-<h3>Step 3 - Technology Data</h3> 
+<h3>Step 3 - Comsumer Data</h3> 
+
+<p>
+  The consumers in this model are any person, place, or thing that demands a product and are indicated by the green nodes. You can click and drag the nodes to different locations. 
+</p>
+
+<video width="840" controls>
+  <source src="Pictures\custom_model\demand_drag.mp4">
+Your browser does not support the video.
+</video>
+
+<br>
+
+<p>
+  Similar to the other steps we have encountered, you can also double-click the nodes to edit the demand information about each consumer. In the video below, Consumer4's capacity is changed from 30,000 to 60,000 gallons of biomethane per year, and its price is changed from $3,000 to $3,500 per gallon. This means that Consumer4 now demands a maximum of 60,000 gallons of biomethane per year and is willing to buy the biomethane at $3,500 per gallon. 
+</p>
+
+<video width="840" controls>
+  <source src="Pictures\custom_model\demand_edit.mp4">
+Your browser does not support the video.
+</video>
+
+<br>
+
+<h3>Step 4 - Technology Data</h3> 
 
 <p>
   The technology data includes <b>technology sites</b>, which are locations that have pre-existing technologies, and <b>technology candidates</b>, which are locations where a technology could be built. 
@@ -111,30 +135,6 @@ Your browser does not support the video.
 
 <video width="840" controls>
   <source src="Pictures\custom_model\tech_edit.mp4">
-Your browser does not support the video.
-</video>
-
-<br>
-
-<h3>Step 4 - Comsumer Data</h3> 
-
-<p>
-  The consumers in this model are any person, place, or thing that demands a product and are indicated by the green nodes. You can click and drag the nodes to different locations. 
-</p>
-
-<video width="840" controls>
-  <source src="Pictures\custom_model\demand_drag.mp4">
-Your browser does not support the video.
-</video>
-
-<br>
-
-<p>
-  Similar to the other steps we have encountered, you can also double-click the nodes to edit the demand information about each consumer. In the video below, Consumer4's capacity is changed from 30,000 to 60,000 gallons of biomethane per year, and its price is changed from $3,000 to $3,500 per gallon. This means that Consumer4 now demands a maximum of 60,000 gallons of biomethane per year and is willing to buy the biomethane at $3,500 per gallon. 
-</p>
-
-<video width="840" controls>
-  <source src="Pictures\custom_model\demand_edit.mp4">
 Your browser does not support the video.
 </video>
 

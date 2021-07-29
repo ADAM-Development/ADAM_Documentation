@@ -62,7 +62,7 @@
 
 <br>
 
-<h3>Step 2 - Supplier Data</h3>
+<h3>Step 2 - Supply Data</h3>
 
 <img src="Pictures\biogas_from_waste_ex\step2.png">
 
@@ -74,7 +74,7 @@
     By <b>double-clicking</b> on any of the markers, you can get <b>more detailed information about each node</b>. An example of the detailed information is shown below. 
 </p>
 
-<img src="Pictures\biogas_from_waste_ex\sup_info.png">
+<img src="Pictures\biogas_from_waste_ex\sup_info_v2.png">
 
 <p>
     Here we see that this supply node is located at a longitude and latitude of <b>43.1263, -89.5514</b>. It produces waste at a capacity of <b>65,000 tonnes</b> per year (the "per year" was defined in step 1) at a cost of <b>$5 per tonne</b> of waste produced. 
@@ -82,12 +82,36 @@
 
 <p><b>A negative price indicates a reverse money flow</b> (i.e. the supplier loses money while the consumer gains money). This is true for a waste management system because waste is an undesireable product, therefore the suppliers have to pay money in order to get rid of it.</p>
 
-<h3>Step 3 - Technology Data</h3>
+<br>
+
+<h3>Step 3 - Consumer Data</h3>
+
+<img src="Pictures\biogas_from_waste_ex\step4.png">
+
+<p>In step 3, we define the consumer (demand) data. In this example, we have three demand data nodes indicated on the map as green markers. Note that the topmost node is both a supply and a demand node, indicated by a half-green and half-yellow marker. This is not exclusive to supply and demand information. <b>A single node can act as a supply, demand, and technology node or any combination of the three</b>.
+</p>
+
+<p>Double-clicking on the demand node will open more detailed information about that node. An example of this is shown below:
+</p>
+
+<img src="Pictures\biogas_from_waste_ex\dem_info.png">
+
+<p>
+    This consumer demands two different products: digestate and waste. Digestate is the waste product of the technology after it processes waste into biogas. The consumer demands 115,000 tonnes per year of both digestate and waste. They purchase the digestate for $5 per tonne, and they get the waste at no cost. The consumer can get the waste at zero cost because the supplier loses money by producing waste so the supplier would like to get rid of the waste while sustaining as little losses as possible.  
+</p>
+
+<p>
+    This consumer only wants the waste products, meaning that this consumer is likely a crop field that demands the nutrients from the manure. 
+</p>
+
+<br>
+
+<h3>Step 4 - Technology Data</h3>
 
 <img src="Pictures\biogas_from_waste_ex\step3.png">
 
 <p>
-    In step 3, we define the technology nodes. In this example, we have two technology nodes which are shown on the map as the blue markers.
+    In step 4, we define the technology nodes. In this example, we have two technology nodes which are shown on the map as the blue markers.
 </p>
 
 <p>
@@ -104,28 +128,6 @@
 
 <p>
     The diagram at the bottom of the detailed information window shows the inputs and outputs of the technology. For every 1 tonne of waste, the anaerobic digestion technology produces 1500 cubic ft of biogas and 0.95 tonnes of digestate. 
-</p>
-
-<br>
-
-<h3>Step 4 - Consumer Data</h3>
-
-<img src="Pictures\biogas_from_waste_ex\step4.png">
-
-<p>In step 4, we define the consumer (demand) data. In this example, we have three demand data nodes indicated on the map as green markers. Note that the topmost node is both a supply and a demand node, indicated by a half-green and half-yellow marker. This is not exclusive to supply and demand information. <b>A single node can act as a supply, demand, and technology node or any combination of the three</b>.
-</p>
-
-<p>Double-clicking on the demand node will open more detailed information about that node. An example of this is shown below:
-</p>
-
-<img src="Pictures\biogas_from_waste_ex\dem_info.png">
-
-<p>
-    This consumer demands two different products: digestate and waste. Digestate is the waste product of the technology after it processes waste into biogas. The consumer demands 115,000 tonnes per year of both digestate and waste. They purchase the digestate for $5 per tonne, and they get the waste at no cost. The consumer can get the waste at zero cost because the supplier loses money by producing waste so the supplier would like to get rid of the waste while sustaining as little losses as possible.  
-</p>
-
-<p>
-    This consumer only wants the waste products, meaning that this consumer is likely a crop field that demands the nutrients from the manure. 
 </p>
 
 <br>
@@ -150,7 +152,7 @@
 
 <br>
 
-<h3>Step 6</h3>
+<h3>Step 6 - Run Model</h3>
 
 <img src = "Pictures\biogas_from_waste_ex\step6.png">
 
