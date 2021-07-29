@@ -2,7 +2,7 @@
 
 <h2>Background Information</h2> 
 
-<p>In the Biogas From Waste example, cattle farms produce manure which is then processed by a technology site, which uses anaerobic digestion to produce biogas. The biogas is then purchased by customers or further processed by another technology site to produce electricity.</p>
+<p>In the Biogas From Waste example, cattle farms produce manure which is then processed by a technology site, which uses anaerobic digestion to produce biogas and digestate (a waste product). The biogas is then purchased by customers or further processed by another technology site to produce electricity, and the digestate is applied to a crop field.</p>
 
 <img src="Pictures\biogas_from_waste_ex\process_1.png">
 

@@ -14,7 +14,6 @@
 </p>
 
 <br>
-<br>
 
 <h2>Contents:</h2>
 
@@ -36,8 +35,11 @@
 <a href="/ADAM_Documentation/dashboard_vis_tool.html">Using the Visualization Tool</a>
 <br>
 <a href="/ADAM_Documentation/dashboard_p_graph.html">Interpreting the P-Graph</a>
+
+<!--
 <br>
 <a href="prod_database.html">Using the Product Database - still in progress</a>
 <br>
 <a href="tech_database.html">Using the Technology Database - still in progress</a>
+-->
 
