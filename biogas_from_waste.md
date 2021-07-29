@@ -2,21 +2,19 @@
 
 <h2>Background Information</h2> 
 
-<p>In the Biogas From Waste example, cattle farms produce manure which is then processed by a technology site, which uses anaerobic digestion to produce biogas and digestate (a waste product). The biogas is then purchased by customers or further processed by another technology site to produce electricity, and the digestate is applied to a crop field.</p>
+In the Biogas From Waste example, cattle farms produce manure which is then processed by a technology site, which uses anaerobic digestion to produce biogas and digestate (a waste product). The biogas is then purchased by customers or further processed by another technology site to produce electricity, and the digestate is applied to a crop field.
 
 <img src="Pictures\biogas_from_waste_ex\process_1.png">
 
-<p>Since there are many cattle farms, technology sites, and consumers, there are many combinations of pathways that the manure and biogas can take. We would like to find out which pathway is the most economically favorable.</p>
+Since there are many cattle farms, technology sites, and consumers, there are many combinations of pathways that the manure and biogas can take. We would like to find out which pathway is the most economically favorable.
 
-<p>We only want to manage sites that already exist; we are not considering building new technology sites. This type of problem can be defined as a <b>management-type model</b>.
-</p>
+We only want to manage sites that already exist; we are not considering building new technology sites. This type of problem can be defined as a **management-type model**.
 
 <br>
 
 <h2>Outline</h2>
 
-<p>The first screen you encounter is the <b>Outline Page</b>. This page provides an overview of the steps we will go over during the tutorial. You may select any of the icons to jump to that part of the tutorial. For first-time users, we recommend selecting the <b>Input Data</b> step.
-</p>
+The first screen you encounter is the **Outline Page**. This page provides an overview of the steps we will go over during the tutorial. You may select any of the icons to jump to that part of the tutorial. For first-time users, we recommend selecting the <b>Input Data</b> step.
 
 <img src="Pictures\biogas_from_waste_ex\overview.png">
 
@@ -24,24 +22,22 @@
 
 <h3>Input Data</h3> 
 
-<p>The first page of the tutorial gives you information about the input data needed for ADAM. This input data consists of supply data, demand data, technology data, and transportation data.</p>
+The first page of the tutorial gives you information about the input data needed for ADAM. This input data consists of supply data, demand data, technology data, and transportation data.
 
 <img src="Pictures\biogas_from_waste_ex\input.png">
 
 <h5>The Supplier Data</h5>
 
-<p>In the case of biogas to waste, the <b>suppliers are CAFOs that produce cattle manure</b>. The supplier data includes several pieces of information about each CAFO: their location, the amount of manure produced (capacity), and the cost of the waste to the supplier. 
-</p>
+In the case of biogas to waste, the **suppliers are CAFOs that produce cattle manure**. The supplier data includes several pieces of information about each CAFO: their location, the amount of manure produced (capacity), and the cost of the waste to the supplier. 
 
 <h5>The Consumer Data</h5>
 
-<p>The <b>consumers are any person or organization that purchases a valuable product</b>. Similar to the supplier data, the consumer data includes the following information about each consumer: their location, the maximum amount of product they can purchase (capacity), and the unit price at which they are buying the product. In this case, the only product of value is the biogas produced by the technology sites. 
-</p>
+The **consumers are any person or organization that purchases a valuable product**. Similar to the supplier data, the consumer data includes the following information about each consumer: their location, the maximum amount of product they can purchase (capacity), and the unit price at which they are buying the product. In this case, the only product of value is the biogas produced by the technology sites. 
 
 <h5>The Technology Data</h5>
 
-<p><b>Technologies are any equipment, factory, or process that can transform one product into another</b>. In the context of biogas from waste, the technology being used is an anaerobic digester that uses cattle manure to produce biogas (main product) and digestate (a waste product). The technology data includes the location and type of technology installed. 
-</p>
+**Technologies are any equipment, factory, or process that can transform one product into another**. In the context of biogas from waste, the technology being used is an anaerobic digester that uses cattle manure to produce biogas (main product) and digestate (a waste product). The technology data includes the location and type of technology installed. 
+
 
 <h5>The Transportation Data</h5>
 
