@@ -94,7 +94,7 @@
 <p>Double-clicking on the demand node will open more detailed information about that node. An example of this is shown below:
 </p>
 
-<img src="Pictures\biogas_from_waste_ex\dem_info.png">
+<img src="Pictures\biogas_from_waste_ex\dem_info.png" style="width:426px;height:509px;">
 
 <p>
     This consumer demands two different products: digestate and waste. Digestate is the waste product of the technology after it processes waste into biogas. The consumer demands 115,000 tonnes per year of both digestate and waste. They purchase the digestate for $5 per tonne, and they get the waste at no cost. The consumer can get the waste at zero cost because the supplier loses money by producing waste so the supplier would like to get rid of the waste while sustaining as little losses as possible.  
@@ -120,7 +120,7 @@
 
 <br>
 
-<img src="Pictures\biogas_from_waste_ex\tech_info.png">
+<img src="Pictures\biogas_from_waste_ex\tech_info.png" style="width:426px;height:530px;">
 
 <p>
     From this detailed information, we can determine that this is an <b>anaerobic digestion type technology</b> located at a longitude and latitude of <b>43.1729, -89.5036</b>. It can process up to <b>60,000 tonnes of waste</b> per year (again the "per year" was defined in step 1) at a cost of <b>$6 per tonne of waste</b> processed.
