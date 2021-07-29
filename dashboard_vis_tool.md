@@ -4,7 +4,7 @@
     The visualization tool allows you to visualize the results of completed models or visualize the location and flow data of uploaded data files. 
 </p>
 
-<img src="Pictures\Dashboard_tutorials\visualization_tool\vis_home.png">
+<img src="Pictures\Dashboard_tutorials\visualization_tool\dashboard_home.png">
 
 <h2>Visualize Model Result</h2>
 
