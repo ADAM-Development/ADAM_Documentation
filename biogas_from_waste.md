@@ -4,7 +4,7 @@
 
 <p>In the Biogas From Waste example, cattle farms produce manure which is then processed by technology sites. These technology sites use anaerobic digestion to produce biogas. This biogas is then purchased by customers or locally used by the technology site.</p>
 
-<img src="Pictures\biogas_from_waste_ex\process.png">
+<img src="Pictures\biogas_from_waste_ex\process_1.png">
 
 <p>Since there are many cattle farms, technology sites, and consumers, there are many combinations of pathways that the manure and biogas can take. We would like to find out which pathway is the most economically favorable.</p>
 
