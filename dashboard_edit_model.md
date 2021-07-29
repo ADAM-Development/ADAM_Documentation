@@ -28,62 +28,41 @@
 
 <img src="Pictures\Dashboard_tutorials\edit_model\step2.png">
 
-<p>
-    In addition to editing existing nodes, you may also add new data. <b>Upload Data</b> is used when you have a CSV file containing data points you would like to add. Otherwise, you can add a singular node by selecting <b>Manual Entry</b> and then filling out the required information. <b>Load from Model</b> allows you to select other models from your model list and import their data into this model. 
-</p>
+In addition to editing existing nodes, you may also add new data. **Upload Data** is used when you have a CSV file containing data points you would like to add. Otherwise, you can add a singular node by selecting **Manual Entry** and then filling out the required information. **Load from Model** allows you to select other models from your model list and import their data into this model. 
 
 <p>
     For more detailed information on adding new data, please go to the
 <a href="/ADAM_Documentation/dashboard_input_data.html">Adding Data to a Model Tutorial</a>.
-    
 </p>
 
-<p>
-    If you upload the wrong file, you can use <b>Clear Data</b> to clear all supply data from the model. If you want to <b>delete a single node, you can right-click on the node</b>. The final option, <b>Look for a Feedstock</b>, allows you to look through the product database and see detailed information about each product. 
-</p>
+If you upload the wrong file, you can use **Clear Data** to clear all supply data from the model. If you want to **delete a single node, you can right-click on the node**. The final option, **Look for a Feedstock**, allows you to look through the product database and see detailed information about each product. For step 4 (adding technology data), there is an equivalent option that allows you to look through the technology database and see detailed information on each available technology. 
 
 <h2>Step 5 - Transport Data</h2>
 
-<p>
-    Step 5 is adding the transportation data to the model. For a copied model, there is no transportation data; you will have to add that yourself. For models with many nodes (over 200), you should select the <b>Skip</b> option. Otherwise, select <b>Generate Transportation Routes</b>. This will generate every possible pathway for each product. Make sure to select all the data layers before saving. 
-</p>
+Step 5 is adding the transportation data to the model. For a copied model, there is no transportation data; you will have to add that yourself. For models with many nodes (over 200), you should select the **Skip** option. Otherwise, select **Generate Transportation Routes**. This will generate every possible pathway for each product. Make sure to select all the data layers before saving.
 
 <img src="Pictures\Dashboard_tutorials\edit_model\step5.png">
 
-<p>
-    In this case, the model has less than 200 nodes, so we select <b>Generate Transportation Routes</b>. Selecting all the data layers indicates that we want to consider every possible pathway for each product. 
-</p>
+In this case, the model has less than 200 nodes, so we select **Generate Transportation Routes**. Selecting all the data layers indicates that we want to consider every possible pathway for each product. 
 
-<p>
-    The <b>Read Transportation Data</b> option is used when you have previously generated transportation routes and have saved them. This option is slightly faster than generating new transportation routes. 
-</p>
+The **Read Transportation Data** option is used when you have previously generated transportation routes and have saved them. This option is slightly faster than generating new transportation routes.
 
-<p>
-    After generating transportation routes, you can now use the distance filter option. This allows you to limit the transportation pathways to those within a certain distance range. Clicking <b>Fit</b> will apply the selected distance filter, and clicking <b>Recover all Routes</b> will remove the distance filter. 
-</p>
+After generating transportation routes, you can now use the distance filter option. This allows you to limit the transportation pathways to those within a certain distance range. Clicking **Fit** will apply the selected distance filter, and clicking **Recover all Routes** will remove the distance filter. 
 
 <img src="Pictures\Dashboard_tutorials\edit_model\step5_filter.png">
 
-<p>
-    Once you have adjusted the transportation routes as you wish, you are ready to run your model. 
-</p>
+Once you have adjusted the transportation routes as you wish, you are ready to run your model. 
 
 <h2>Step 6 - Run Model</h2>
 
-<p>
-    ADAM aknowledges that we have run the model before. Run the model by clicking <b>Rerun the Model</b>. 
-</p>
+ADAM aknowledges that we have run the model before. Run the model by clicking **Rerun the Model**. 
 
 <img src="Pictures\Dashboard_tutorials\edit_model\step6.png">
 
-<p>
-    As before, once the model status is <b>Completed</b>, you will be able to view the results. For more information on the model results, please refer to the 
+As before, once the model status is **Completed**, you will be able to view the results. For more information on the model results, please refer to the 
 <a href="/ADAM_Documentation/dashboard_results.html">Interpreting the Results Tutorial</a>.
-</p>
 
-<p>
-    Now that you have learned how to make a copy, edit, and run an existing model, we will now go over how to make your own model from scratch. 
-</p>
+Now that you have learned how to make a copy, edit, and run an existing model, we will now go over how to make your own model from scratch. 
 
 <br>
 <br>

@@ -7,9 +7,7 @@
 
 <h2>Creating a new Model</h2>
 
-<p>
-    First, navigate to your model list by selecting <b>Manage Models</b> on the dashboard homepage. Next select <b>New Model</b>. 
-</p>
+First, navigate to your model list by selecting **Manage Models** on the dashboard homepage. Next select **New Model**. 
 
 <img src="Pictures\Dashboard_tutorials\new_model\model_list.png">
 
@@ -19,9 +17,7 @@
 
 <img src="Pictures\Dashboard_tutorials\new_model\enter_info.png">
 
-<p>
-    After selecting <b>Yes</b>, the model will be added to your model list.
-</p>
+After selecting **Yes**, the model will be added to your model list.
 
 <img src="Pictures\Dashboard_tutorials\new_model\new_model.png">
 
@@ -38,29 +34,21 @@
 </p>
 
 <p>
-    For a custom model, you will need to create your own supply, demand, technology site, and technology candidate files. Please review the 
-<a href="input_files.html">Input Files Tutorial</a> for information on each file type. 
+    For a custom model, you will need to input your own data. You can do this by creating your own supply, demand, technology site, and technology candidate files, or you can use some other method of uploading data. Please review the 
+<a href="input_files.html">Input Files Tutorial</a> for information on each file type, or the <a href="dashboard_input_data.html">Adding Data to a Model Tutorial</a> for various methods of adding data. 
 </p>
 
 <h2>Step 1 - Model Type</h2>
 
-<p>
-    Begin inputting data by selecting <b>Step 1</b>. You will be taken to a page where you can define the model type and the time basis. 
-</p>
+Begin inputting data by selecting **Step 1**. You will be taken to a page where you can define the model type and the time basis. 
 
 <img src="Pictures\Dashboard_tutorials\new_model\step1.png">
 
-<p>
-    The default model type is a <b>Supply Chain Design</b> type model, and the default time basis is <b>Year</b>. A design-type model is used when your data contains technology candidates, otherwise a management-type model is used. 
-</p>
+The default model type is a **Supply Chain Design** type model, and the default time basis is **Year**. A design-type model is used when your data contains technology candidates, otherwise a management-type model is used.
 
-<p>
-    The time basis is up to you. Just keep in mind that you will need to have your data in the units of your selected time basis; additionally, the results will be in the selected time units.
-</p>
+The time basis is up to you. Just keep in mind that you will need to have your data in the units of your selected time basis; additionally, the results will be in the selected time units.
 
-<p>
-    In this example, we will leave it as the default settings. Clicking <b>Confirm</b> will bring you to the next step.
-</p>
+In this example, we will leave it as the default settings. Clicking **Confirm** will bring you to the next step.
 
 <h2>Step 2 - Suppy Data</h2>
 
@@ -77,21 +65,25 @@
 
 <img src="Pictures\Dashboard_tutorials\new_model\step2_data.png">
 
-<p>
-    Then click <b>Next</b> to save the supply data and proceed to the next step. 
-</p>
+Then click **Next** to save the supply data and proceed to the next step. 
 
-<h2>Step 3 - Technology Data</h2>
+<h2>Step 3 - Demand Data</h2>
 
 <p>
-    In step 3, we will upload our technology data using the same method as before. When uploading the technology data, make sure to toggle the <b>Type</b> to match the file. 
+    Similar to the supply data, we will upload a CSV file containing the demand data in step 3. After uploading the example, the model should look like this:
 </p>
+
+<img src="Pictures\Dashboard_tutorials\new_model\step4.png">
+
+Then click **Next** to save the demand data and proceed to the next step.
+
+<h2>Step 4 - Technology Data</h2>
+
+In step 3, we will upload our technology data using the same method as before. When uploading the technology data, make sure to toggle the **Type** to match the file. 
 
 <img src="Pictures\Dashboard_tutorials\new_model\step3_type.png">
 
-<p>
-    ADAM only allows you to upload one file at a time so first select <b>Technology Site Data</b> as the type and upload the example technology site file, then select <b>Upload Data</b> again and repeat the process with the technology candidate file. 
-</p>
+ADAM only allows you to upload one file at a time so first select **Technology Site Data** as the type and upload the example technology site file, then select **Upload Data** again and repeat the process with the technology candidate file.
 
 <p>
     If you uploaded the example files correctly, the model should look like this: 
@@ -99,27 +91,12 @@
 
 <img src="Pictures\Dashboard_tutorials\new_model\step3.png">
 
-<p>
-    Then, click <b>Next</b> to save the technology data and proceed to the next step. 
-</p>
+Then, click **Next** to save the technology data and proceed to the next step. 
 
-<h2>Step 4 - Demand Data</h2>
-
-<p>
-    Similar to the supply and technology data, we will upload a CSV file containing the demand data in step 4. After uploading the example, the model should look like this:
-</p>
-
-<img src="Pictures\Dashboard_tutorials\new_model\step4.png">
-
-<p>
-    Then click <b>Next</b> to save the demand data and proceed to the next step. 
-</p>
 
 <h2>Step 5 - Transport Data</h2>
 
-<p>
-    Step 5 is adding the transportation data to the model. For models with many nodes (over 200), you should select the <b>Skip</b> option. Otherwise, select <b>Generate Transportation Routes</b>. This will generate every possible pathway for each product. Make sure to select all the data layers before saving. 
-</p>
+Step 5 is adding the transportation data to the model. For models with many nodes (over 200), you should select the **Skip** option. Otherwise, select **Generate Transportation Routes**. This will generate every possible pathway for each product. Make sure to select all the data layers before saving. 
 
 <p>
     The digestate pathways overlap the bio-electricity pathways so you may have to toggle some of the data layers in order to view the bio-electricity pathways. 
@@ -127,19 +104,13 @@
 
 <img src="Pictures\Dashboard_tutorials\new_model\step5.png">
 
-<p>
-    The <b>Read Transportation Data</b> option is used when you have previously generated transportation routes and have saved them. This option is slightly faster than generating new transportation routes. 
-</p>
+The **Read Transportation Data** option is used when you have previously generated transportation routes and have saved them. This option is slightly faster than generating new transportation routes.
 
-<p>
-    After generating transportation routes, you can now use the distance filter option. This is an optional step that allows you to limit the transportation pathways to those within a certain distance range. Clicking <b>Fit</b> will apply the selected distance filter, and clicking <b>Recover all Routes</b> will remove the distance filter. 
-</p>
+After generating transportation routes, you can now use the distance filter option. This is an optional step that allows you to limit the transportation pathways to those within a certain distance range. Clicking **Fit** will apply the selected distance filter, and clicking **Recover all Routes** will remove the distance filter.
 
 <img src="Pictures\Dashboard_tutorials\new_model\dist_filter.png">
 
-<p>
-    After applying the transportation routes, click <b>Save Changes</b> in order to save. 
-</p>
+After applying the transportation routes, click **Save Changes** in order to save.
 
 <h2>Step 6 - Run Model</h2> 
 
@@ -149,26 +120,22 @@
 
 <img src="Pictures\Dashboard_tutorials\new_model\step6.png">
 
-<p>
-    Once the status is <b>Completed</b>, you may view the results. For more information on how to interpert the results, please refer to the
+Once the status is **Completed**, you may view the results. For more information on how to interpert the results, please refer to the
 <a href="/ADAM_Documentation/dashboard_results.html">Interpreting the Results Tutorial</a>.
-</p>
 
 <img src="Pictures\Dashboard_tutorials\new_model\completed.png">
 
 <h2>The Other Options</h2>
 
-<p>
-    Besides the <b>View Model Results</b> option, there are also several other options that you can select. Below, there is a short description of the option and their functions. 
-</p>
+Besides the **View Model Results** option, there are also several other options that you can select. Below, there is a short description of the option and their functions. 
 
-<ul>
-    <li><b>Clear Model Data</b> - clears all data in the model</li>
-    <li><b>Delete Model</b> - deletes the model from the model list</li>
-    <li><b>Load Model</b> - loads data from another model into this model</li>
-    <li><b>Download Model Data</b> - allows you to download all of the input data (supply, technology, demand) in the form of csv files</li>
-    <li><b>Get P-Graph</b> - allows you to view the process graph for this system</li>
-</ul>
+| Option | Description |
+| ------------- | ------------- |
+| **Clear Model Data** | clears all data in the model |
+| **Delete Model** | deletes the model from the model list | 
+| **Load Model** | loads data from another model into this model |
+| **Download Model Data** | allows you to download all of the input data (supply, technology, demand) in the form of csv files | 
+| **Get P-Graph** | allows you to view the process graph for this system |
 
 <br>
 <br>

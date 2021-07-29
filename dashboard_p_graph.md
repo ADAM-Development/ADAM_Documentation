@@ -4,9 +4,7 @@
     As long as you have technology data inputted in the model, you can access the Process graph. A process graph is a diagram that contains all possible combinations of the technologies and products in the system. This allows you to quickly and easily identify all potential supply chain pathways. P-Graphs consist of raw materials, intermediate products, final products, and technologies. 
 </p>
 
-<p>
-    <b>Raw Materials</b> are unprocessed materials used to make other products (e.g. milk). <b>Intermediate Products</b> are products that can be used as an input to make other goods (e.g. milk produces cheese which can then be used to make pizza. Cheese is an intermediate product). <b>Final Products</b> are products that cannot be further processed into a new product (e.g. pizza). <b>Technologies</b> are any equipment or processes that can transform one product to another (e.g. cheese factory)
-</p>
+**Raw Materials** are unprocessed materials used to make other products (e.g. milk). **Intermediate Products** are products that can be used as an input to make other goods (e.g. milk produces cheese which can then be used to make pizza. Cheese is an intermediate product). **Final Products** are products that cannot be further processed into a new product (e.g. pizza). **Technologies** are any equipment or processes that can transform one product to another (e.g. cheese factory)
 
 <p>
     In a process diagram, raw materials are depicted as yellow circles, technologies are depicted as gray rectangles, intermediate products are depicted as blue circles, and final products are depicted as green circles. 

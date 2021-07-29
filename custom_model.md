@@ -2,15 +2,13 @@
 
 <h2>Background information</h2>
 
-<p>
-  In a custom model, you can define the supply, demand, and technology data to specify the problem you want to solve. For this example, we will be exploring a different type of model: <b>a design-type model</b>. Rather than simply managing technology sites that already exist, a design-type model will decide whether to build a technology at a certain site. Additionally, it will calculate the performance of the system, including the technologies that were worth building. 
-</p>
+In a custom model, you can define the supply, demand, and technology data to specify the problem you want to solve. For this example, we will be exploring a different type of model: **a design-type model**. Rather than simply managing technology sites that already exist, a design-type model will decide whether to build a technology at a certain site. Additionally, it will calculate the performance of the system, including the technologies that were worth building. 
 
 <br>
 
 <h2>Outline</h2>
 
-<p>The first screen you encounter is the <b>Outline Page</b>. This page provides an overview of the steps we will go over during the tutorial. We reccomend going through the tutorial in order. Do this by selecting the <b>Input Data</b> step.</p>
+The first screen you encounter is the **Outline Page**. This page provides an overview of the steps we will go over during the tutorial. We reccomend going through the tutorial in order. Do this by selecting the **Input Data** step.
 
 <img src = "Pictures\custom_model\outline.png">
 
@@ -20,13 +18,9 @@
 
 <img src="Pictures\custom_model\input_dat.png">
 
-<p>
-  Similar to the biogas from waste example, the inputs for the custom model are supply data, customer data, technology data, and transportation data. The only difference is the information included in the technology data.
-</p>
+Similar to the biogas from waste example, the inputs for the custom model are supply data, customer data, technology data, and transportation data. The only difference is the information included in the technology data.
 
-<p>
- In the biogas from waste example, the technology data only included information about existing technology sites; however, for a design-type model, we must also consider <b>technology candidates</b>, sites where technologies could potentially be built. 
-</p>
+In the biogas from waste example, the technology data only included information about existing technology sites; however, for a design-type model, we must also consider **technology candidates**, sites where technologies could potentially be built. 
 
 <p>
   All other inputs are the same as the biogas from waste example except the suppliers and customers are generic; the suppliers do not need to be CAFOs and the consumers do not need to be the same as the ones in the biogas from waste example. 
@@ -63,10 +57,6 @@
   The supply data of a custom model can be anything that supplies a product (usually a waste product). In this example three CAFOs acting as supply nodes are provided; you can click and drag the nodes or edit the data as you wish. 
 </p>
 
-<p>
-    Click and drag points.  
-</p>
-
 <video width="840" controls>
   <source src="Pictures\custom_model\supply_drag.mp4">
 Your browser does not support the video.
@@ -78,9 +68,7 @@ Your browser does not support the video.
     We can edit the capacity and price of the points. Remember that capacity refers to the amount of product that the supply node produces, and the price refers to the cost of the product to the supplier. 
 </p>
 
-<p>
-  The video below shows the capacity of CAFO1 being changed from 65,000 to 50,000 tonnes of manure per year; the price is changed from costing the CAFO $5 per tonne to $10 per tonne. Remember that a <b>negative price indicates cost</b>. 
-</p>
+The video below shows the capacity of CAFO1 being changed from 65,000 to 50,000 tonnes of manure per year; the price is changed from costing the CAFO $5 per tonne to $10 per tonne. Remember that a **negative price indicates cost**. 
 
 <video width="840" controls>
   <source src="Pictures\custom_model\supply_edit.mp4">
@@ -115,9 +103,7 @@ Your browser does not support the video.
 
 <h3>Step 4 - Technology Data</h3> 
 
-<p>
-  The technology data includes <b>technology sites</b>, which are locations that have pre-existing technologies, and <b>technology candidates</b>, which are locations where a technology could be built. 
-</p>
+The technology data includes **technology sites**, which are locations that have pre-existing technologies, and **technology candidates**, which are locations where a technology could be built. 
 
 <p>In this example, there are two technology sites (blue) and one technology candidate (red). You can click and drag these points to different locations.
 </p>

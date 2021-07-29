@@ -2,9 +2,7 @@
 
 <h2>Background</h2>
 
-<p>
-    On September 17, 2020, the <b>Federal Energy Regulatory Commision (FERC)</b> issued <b>Order No. 2222</b>. This policy removed the cost barriers that were limiting <b>distributed energy resources (DERs)</b>, allowing them to compete alongside traditional electricity resources. 
-</p>
+On September 17, 2020, the **Federal Energy Regulatory Commision (FERC)** issued **Order No. 2222**. This policy removed the cost barriers that were limiting **distributed energy resources (DERs)**, allowing them to compete alongside traditional electricity resources. 
 
 <p>
     DERs are local, small-scale power generation or energy storage technologies connected to the power grid. Some examples of DERs are rooftop solar panels, biomass generators, fuel cells, wind turbines, and electric vehicles. With Order No. 2222, these technologies will be more easily obtainable by the average citizen. An increase in DERs allows the power grid to become more flexible and resilient since there is less reliance on centralized power generation sites. 

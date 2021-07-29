@@ -19,43 +19,31 @@
 
 <br>
 
-<p>
-    Next, select the published case study that you would like to copy. In this example, we will be selecting the <b>Waste to Energy</b> example. 
-</p>
+Next, select the published case study that you would like to copy. In this example, we will be selecting the **Waste to Energy** example. 
 
 <img src="Pictures\Dashboard_tutorials\copy_model\nav_to_case_studies_2.png">
 
-
 <h2>Step 2: Make a copy</h2>
 
-<p>
-    Once you have navigated to the case study, and click <b>Make a Copy</b>. Note that the copy will only contain one scenario so be sure to adjust to the desired scenario before you click <b>Make a Copy</b>.
-</p>
-
+Once you have navigated to the case study, and click **Make a Copy**. Note that the copy will only contain one scenario so be sure to adjust to the desired scenario before you click **Make a Copy**.
 
 <img src="Pictures\Dashboard_tutorials\copy_model\case_study.png">
 
 <br>
 
-<p>
-    Once you have clicked <b>Make a Copy</b> a popup window will appear, prompting you to edit the model name. Change the model name as desired and click <b>Yes</b>. This will create a copy of the Low Electricity Price scenario for the Waste to Energy case study. 
-</p>
+Once you have clicked **Make a Copy** a popup window will appear, prompting you to edit the model name. Change the model name as desired and click **Yes**. This will create a copy of the Low Electricity Price scenario for the Waste to Energy case study. 
 
 <img src="Pictures\Dashboard_tutorials\copy_model\case_study_window.png">
 
 <h2>Step 3: Locating the copied model</h2>
 
-<p>
-    Click <b>Manage Models</b> on the dashboard homepage. You will then be taken to the Model list. There you will find a copy of the case study. 
-</p>
+Click **Manage Models** on the dashboard homepage. You will then be taken to the Model list. There you will find a copy of the case study. 
 
 <img src="Pictures\Dashboard_tutorials\copy_model\manage_models.png">
 
 <br> 
 
-<p>
-    Once you have created a copy of the model, you can make changes to it or run it as is. In the next section of the tutorial, we will go over how to run the case study as is. After that, we will go over the various changes you can make to the case study data. 
-</p>
+Once you have created a copy of the model, you can make changes to it or run it as is. In the next section of the tutorial, we will go over how to run the case study as is. After that, we will go over the various changes you can make to the case study data. 
 
 <img src="Pictures\Dashboard_tutorials\copy_model\model_list.png">
 
