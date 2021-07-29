@@ -13,8 +13,6 @@
 <a href="https://github.com/zavalab/ADAM_Documentation/tree/main/Downloadable_content">this link</a>.
 </p>
 
-<br>
-
 <h2>Contents:</h2>
 
 <h3>ADAM Basics</h3>
