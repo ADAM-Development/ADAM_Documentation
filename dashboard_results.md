@@ -78,7 +78,7 @@ You can interpret each of the prices in this way: **if [product] were to be trad
     The demand results file contains information on the type of product and the amount of product that the demand node receives for the solved system.  
 </p>
 
-<img src="Pictures\Dashboard_tutorials\results\demand_results.png">
+<img src="Pictures\Dashboard_tutorials\results\demand_results_v2.png">
 
 <p>
     In this example, we can see that demand node d3 (also denoted as node n6) receives 115,000 units of p1 in the optimal system. 
