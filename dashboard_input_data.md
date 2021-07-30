@@ -15,7 +15,7 @@ The first option we will go over is the **Upload Data** option. This option allo
 After selecting **Upload Data**, browse to the desired file and click **Upload**. The csv file that we will be using in this example can be found and downloaded 
 <a href="https://github.com/ADAM-Development/ADAM_Documentation/tree/main/Downloadable_content/example_custom_model">here</a>.
 
-<img src="Pictures\Dashboard_tutorials\input_data\upload_file.png">
+<img src="Pictures\Dashboard_tutorials\input_data\upload_file.png" style="width:426px;height:521px;">
 
 After doing this, you will have successfully uploaded new data points to the model. Clicking **Next** located at the bottom right will save these points in the model. 
 

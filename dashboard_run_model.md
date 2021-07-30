@@ -54,7 +54,7 @@
     The results will show a summary of the economic performance of the system, along with a section for downloading the results (in the form of CSV files), and a link to the visualization tool. Note that the system includes the supply, demand, technology, and transportation data. 
 </p>
 
-<img src="Pictures\Dashboard_tutorials\run_model\results.png">
+<img src="Pictures\Dashboard_tutorials\run_model\results.png" style="width:426px;height:500px;">
 
 <p>
     For more information on the model results, please refer to the 

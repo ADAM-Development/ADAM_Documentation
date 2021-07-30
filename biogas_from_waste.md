@@ -95,8 +95,6 @@ In step 4, we define the technology nodes. In this example, we have two technolo
 
 Similar to the supply nodes, double-clicking on the technology nodes will give you more information about that node. An example of the detailed information is shown below. 
 
-<br>
-
 <img src="Pictures\biogas_from_waste_ex\tech_info.png" style="width:426px;height:530px;">
 
 From this detailed information, we can determine that this is an **anaerobic digestion type technology** located at a longitude and latitude of **43.1729, -89.5036**. It can process up to **60,000 tonnes of waste** per year (again the "per year" was defined in step 1) at a cost of **$6 per tonne of waste** processed.
