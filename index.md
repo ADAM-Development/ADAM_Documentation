@@ -3,7 +3,7 @@
 
 <img src="Pictures\ADAM_graphic.png">
 
-**Advanced Decision-Making and Management (ADAM)** is a web-based tool used for analyzing **organic waste management (OWM)** problems. These OWM problems involves the interactions between **concentrated animal feeding operations (CAFOs)**, waste management plants, cropfields, customers, etc. ADAM takes these interactions into account to determine the most economically-favorable product pathways and which technologies, if any, to install at certian sites.  
+**ADAM** is a web-based tool used for analyzing **organic waste management (OWM)** problems. These OWM problems involves the interactions between **concentrated animal feeding operations (CAFOs)**, waste management plants, cropfields, customers, etc. ADAM takes these interactions into account to determine the most economically-favorable product pathways and which technologies, if any, to install at certian sites.  
 
  By using ADAM, we can efficiently make case studies to explore the effects of farm concentration, product price changes, government incentives, etc. These case studies can then be used as a teaching tool to learn about a systems approach to waste managment, or can be used to futher research. 
 
