@@ -7,7 +7,7 @@
 
  By using ADAM, we can efficiently make case studies to explore the effects of farm concentration, product price changes, government incentives, etc. These case studies can then be used as a teaching tool to learn about a systems approach to waste managment, or can be used to futher research. 
 
-<a href="http://54.208.179.171:8000/">Check out ADAM here!</a>
+<a href="http://52.91.5.144:8000/">Check out ADAM here!</a>
 
 <br>
 
